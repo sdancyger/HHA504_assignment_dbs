@@ -89,5 +89,21 @@ HHA504
 
 ## 2. Explore BigQuery (GCP)
 
+![pic](bigdata/b1.png)
 
+![pic](bigdata/b2.png)
+
+![pic](bigdata/b3.png)
+
+![pic](bigdata/b4.png)
+
+![pic](bigdata/b5.png)
+
+![pic](bigdata/b6.png)
+
+![pic](bigdata/b7.png)
+
+![pic](bigdata/b8.png)
+
+![pic](bigdata/b9.png)
 
