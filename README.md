@@ -107,3 +107,10 @@ HHA504
 
 ![pic](bigdata/b9.png)
 
+## *Reflections on the differences between managing databases on Azure and GCP*
+
+- *Greater option variety with Azure compared to GCP*
+
+- *More steps in Azure compared to GCP*
+
+- *Increased ease of use with GCP compared to Azure*
